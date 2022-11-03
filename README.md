@@ -1,6 +1,8 @@
 # BOOKS API
 Laravel Backend Api for Book Management
 
+[Go to frontend NextJS client](https://github.com/ht1204/frontend-client)
+
 ## Instructions
 - Install PHP and [Laravel Valet](https://laravel.com/docs/9.x/valet) in your computer.
 - Install mysql, create database for books and create a correspondent table.
